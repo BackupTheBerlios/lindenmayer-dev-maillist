@@ -1,0 +1,58 @@
+From mlgateway at netvader.de  Wed Jun 10 10:44:57 2009
+From: mlgateway at netvader.de (mlgateway at netvader.de)
+Date: Wed, 10 Jun 2009 10:44:57 +0200
+Subject: [Lindenmayer-dev] Test123
+Message-ID: <29308953.308211244623497416.JavaMail.servlet@kundenserver>
+
+Test
+
+
+From mlgateway at netvader.de  Wed Jun 10 10:49:04 2009
+From: mlgateway at netvader.de (Christian Lins)
+Date: Wed, 10 Jun 2009 10:49:04 +0200
+Subject: [Lindenmayer-dev] Test123
+In-Reply-To: <29308953.308211244623497416.JavaMail.servlet@kundenserver>
+References: <29308953.308211244623497416.JavaMail.servlet@kundenserver>
+Message-ID: <f2fb1d56-2d65-4440-80f5-8720c508820a@news.xerxys.info>
+
+Antwort auf Test
+To: lindenmayer-dev at lists.berlios.de
+Reply-To: lindenmayer-dev at lists.berlios.de
+Sender: mlgateway at netvader.de
+
+mlgateway at netvader.de schrieb:
+> Test
+> _______________________________________________
+> Lindenmayer-dev mailing list
+> Lindenmayer-dev at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/lindenmayer-dev
+> 
+
+
+From mlgateway at netvader.de  Wed Jun 10 12:48:20 2009
+From: mlgateway at netvader.de (Christian Lins)
+Date: Wed, 10 Jun 2009 12:48:20 +0200
+Subject: [Lindenmayer-dev] Jetzt mit zwei Newlines
+Message-ID: <18434638.0.1244634728362.JavaMail.javamailuser@localhost>
+
+123 Test
+
+
+From christian.lins at fh-osnabrueck.de  Wed Jun 10 12:50:35 2009
+From: christian.lins at fh-osnabrueck.de (Christian Lins)
+Date: Wed, 10 Jun 2009 12:50:35 +0200
+Subject: [Lindenmayer-dev] Jetzt mit zwei Newlines
+In-Reply-To: <18434638.0.1244634728362.JavaMail.javamailuser@localhost>
+References: <18434638.0.1244634728362.JavaMail.javamailuser@localhost>
+Message-ID: <8889804.1.1244634862358.JavaMail.javamailuser@localhost>
+
+Christian Lins schrieb:
+> 123 Test
+> _______________________________________________
+> lindenmayer-dev mailing list
+> lindenmayer-dev at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/lindenmayer-dev
+> 
+Yay, a reply
+
+
